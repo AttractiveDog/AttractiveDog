@@ -42,7 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 if you like what i do, maybe consider becoming my Patreon 🥺👉👈
 
-<a href="https://www.patreon.com/bePatron?u=48272963" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
+<a href="https://www.patreon.com/bePatron?u=48272963" data-patreon-widget-type="become-patron-button">Become a Patron!</a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
