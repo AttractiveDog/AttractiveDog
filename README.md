@@ -44,13 +44,7 @@ if you like what i do, maybe consider becoming my Patreon 🥺👉👈
 
 <a href="https://www.patreon.com/bePatron?u=48272963" data-patreon-widget-type="become-patron-button"><img height="40" src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png"></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,982 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 669 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+
 
 
 📈 my github stats
