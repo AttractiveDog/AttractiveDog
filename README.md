@@ -8,10 +8,8 @@
 <a href="https://www.linkedin.com/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
+S
 ![](https://visitor-badge.glitch.me/badge?page_id=AttractiveDog.AttractiveDog)
 
 <br />
